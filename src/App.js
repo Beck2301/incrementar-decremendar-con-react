@@ -2,8 +2,8 @@ import React from "react";
 import { useState } from "react";
 
 function Contador() {
-  const [contadorValue, actualizarContador] = useState(265);
-  const [numeroDediscos, actualizarVeces] = useState(11);
+  const [contadorValue, actualizarContador] = useState(269);
+  const [numeroDediscos, actualizarVeces] = useState(12);
 
   return (
     <div className="container">
