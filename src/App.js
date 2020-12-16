@@ -2,7 +2,7 @@ import React from "react";
 import { useState } from "react";
 
 function Contador() {
-  const [contadorValue, actualizarContador] = useState(251);
+  const [contadorValue, actualizarContador] = useState(265);
   const [numeroDediscos, actualizarVeces] = useState(11);
 
   return (
